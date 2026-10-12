@@ -1,0 +1,162 @@
+{
+ "roles": [
+  {
+   "title": "Dispatch Rider",
+   "description": "Deliver parcels on time using a company motorcycle across Lagos. Strong route knowledge and navigation, a valid riding licence, safe riding, proof of delivery, cash handling, customer service, punctual and reliable, comfortable with a smartphone delivery app."
+  },
+  {
+   "title": "Customer Support Executive",
+   "description": "Handle customer enquiries and complaints by phone, email and chat. Track parcels, resolve delivery issues, escalate problems, keep accurate ticket records, communicate clearly and with empathy, work shifts, use CRM and helpdesk software, meet response time targets."
+  },
+  {
+   "title": "Data Analyst",
+   "description": "Analyse logistics and operations data with SQL, Python and Excel. Build dashboards in Power BI or Metabase, automate reporting, clean and validate data, present insights to managers, understand delivery performance, hubs, riders and customer metrics."
+  },
+  {
+   "title": "Hub Operations Supervisor",
+   "description": "Supervise daily hub operations: parcel sorting, inventory and dispatch scheduling, rider coordination, staff supervision, quality checks, damaged and returned parcels, safety compliance, performance reports, team leadership, achieving delivery targets."
+  }
+ ],
+ "cvs": [
+  {
+   "file": "ibrahim_musa_cv.pdf",
+   "role": "Dispatch Rider",
+   "name": "Ibrahim Musa",
+   "email": "ibrahim_musa@example.com",
+   "subject": "Application for Dispatch Rider",
+   "days_ago": 6,
+   "stage": "Offer Letter",
+   "note": "Strong references"
+  },
+  {
+   "file": "segun_oladipo_cv.pdf",
+   "role": "Dispatch Rider",
+   "name": "Segun Oladipo",
+   "email": "segun_oladipo@example.com",
+   "subject": "Application for Dispatch Rider",
+   "days_ago": 5,
+   "stage": "Interview",
+   "note": "Interview booked"
+  },
+  {
+   "file": "yusuf_danjuma_cv.pdf",
+   "role": "Dispatch Rider",
+   "name": "Yusuf Danjuma",
+   "email": "yusuf_danjuma@example.com",
+   "subject": "Application for Dispatch Rider",
+   "days_ago": 4
+  },
+  {
+   "file": "peter_akpan_cv.pdf",
+   "role": "Dispatch Rider",
+   "name": "Peter Akpan",
+   "email": "peter_akpan@example.com",
+   "subject": "Application for Dispatch Rider",
+   "days_ago": 3,
+   "stage": "Rejected",
+   "note": "No riding licence"
+  },
+  {
+   "file": "chioma_eze_cv.pdf",
+   "role": "Customer Support Executive",
+   "name": "Chioma Eze",
+   "email": "chioma_eze@example.com",
+   "subject": "Application for Customer Support Executive",
+   "days_ago": 6,
+   "stage": "People and Culture Assessment",
+   "note": "Great communicator"
+  },
+  {
+   "file": "funke_balogun_cv.pdf",
+   "role": "Customer Support Executive",
+   "name": "Funke Balogun",
+   "email": "funke_balogun@example.com",
+   "subject": "Application for Customer Support Executive",
+   "days_ago": 5
+  },
+  {
+   "file": "halima_sani_cv.pdf",
+   "role": "Customer Support Executive",
+   "name": "Halima Sani",
+   "email": "halima_sani@example.com",
+   "subject": "Application for Customer Support Executive",
+   "days_ago": 3
+  },
+  {
+   "file": "obinna_chukwu_cv.pdf",
+   "role": "Customer Support Executive",
+   "name": "Obinna Chukwu",
+   "email": "obinna_chukwu@example.com",
+   "subject": "Application for Customer Support Executive",
+   "days_ago": 2
+  },
+  {
+   "file": "ngozi_okafor_cv.pdf",
+   "role": "Data Analyst",
+   "name": "Ngozi Okafor",
+   "email": "ngozi_okafor@example.com",
+   "subject": "Application for Data Analyst",
+   "days_ago": 6,
+   "stage": "Interview",
+   "note": "Portfolio impressive"
+  },
+  {
+   "file": "tunde_adebayo_cv.pdf",
+   "role": "Data Analyst",
+   "name": "Tunde Adebayo",
+   "email": "tunde_adebayo@example.com",
+   "subject": "Application for Data Analyst",
+   "days_ago": 5
+  },
+  {
+   "file": "damilola_ojo_cv.pdf",
+   "role": "Data Analyst",
+   "name": "Damilola Ojo",
+   "email": "damilola_ojo@example.com",
+   "subject": "Application for Data Analyst",
+   "days_ago": 4
+  },
+  {
+   "file": "zainab_lawal_cv.pdf",
+   "role": "Data Analyst",
+   "name": "Zainab Lawal",
+   "email": "zainab_lawal@example.com",
+   "subject": "Application for Data Analyst",
+   "days_ago": 2
+  },
+  {
+   "file": "emeka_nwosu_cv.pdf",
+   "role": "Hub Operations Supervisor",
+   "name": "Emeka Nwosu",
+   "email": "emeka_nwosu@example.com",
+   "subject": "Application for Hub Operations Supervisor",
+   "days_ago": 6,
+   "stage": "Interview",
+   "note": "Shortlisted by ops lead"
+  },
+  {
+   "file": "kemi_adeleke_cv.pdf",
+   "role": "Hub Operations Supervisor",
+   "name": "Kemi Adeleke",
+   "email": "kemi_adeleke@example.com",
+   "subject": "Application for Hub Operations Supervisor",
+   "days_ago": 5
+  },
+  {
+   "file": "aisha_bello_cv.pdf",
+   "role": "Hub Operations Supervisor",
+   "name": "Aisha Bello",
+   "email": "aisha_bello@example.com",
+   "subject": "Application for Hub Operations Supervisor",
+   "days_ago": 3
+  },
+  {
+   "file": "blessing_okoro_cv.pdf",
+   "role": "Hub Operations Supervisor",
+   "name": "Blessing Okoro",
+   "email": "blessing_okoro@example.com",
+   "subject": "Application for Hub Operations Supervisor",
+   "days_ago": 2
+  }
+ ]
+}
