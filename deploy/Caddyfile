@@ -1,0 +1,4 @@
+# Replace with your real domain (its DNS A record must point at this server). Caddy gets the HTTPS certificate itself.
+ats.yourdomain.com {
+    reverse_proxy 127.0.0.1:8501
+}

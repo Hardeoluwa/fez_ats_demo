@@ -1,0 +1,8 @@
+streamlit>=1.40,<2
+pandas
+python-dotenv
+pypdf
+python-docx
+pypdfium2
+pillow
+google-genai

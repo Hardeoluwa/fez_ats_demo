@@ -1,0 +1,39 @@
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Runtime data
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+
+.env
+.env.*
+!.env.example
+data/
+demo_cvs/
+.streamlit/secrets.toml
+.streamlit1/secrets.toml
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+
+.streamlit1/
+.streamlit/secrets.toml
+.streamlit1/secrets.toml
